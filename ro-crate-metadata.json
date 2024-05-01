@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-04-15T14:40:07.941038",
+            "datePublished": "2024-05-01T16:03:28.967443",
             "hasPart": [
                 {
                     "@id": "consensus-peaks-chip-sr.ga"
@@ -52,13 +52,13 @@
             },
             "mentions": [
                 {
+                    "@id": "#test_consensus-peaks-chip-pe_1"
+                },
+                {
                     "@id": "#test_consensus-peaks-chip-sr_1"
                 },
                 {
                     "@id": "#test_consensus-peaks-atac-cutandrun_1"
-                },
-                {
-                    "@id": "#test_consensus-peaks-chip-pe_1"
                 }
             ],
             "name": "consensus-peaks/consensus-peaks-chip-sr"
@@ -90,7 +90,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/consensus-peaks",
-            "version": "0.7"
+            "version": "1.0"
         },
         {
             "@id": "#galaxy",
@@ -183,7 +183,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/consensus-peaks",
-            "version": "0.7"
+            "version": "1.0"
         },
         {
             "@id": "#test_consensus-peaks-chip-pe_1",
@@ -239,7 +239,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/consensus-peaks",
-            "version": "0.7"
+            "version": "1.0"
         },
         {
             "@id": "#test_consensus-peaks-atac-cutandrun_1",
