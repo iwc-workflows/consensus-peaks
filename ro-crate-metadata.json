@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-06-10T13:19:59.881478",
+            "datePublished": "2024-09-25T09:38:57.961468",
             "hasPart": [
                 {
                     "@id": "consensus-peaks-chip-sr.ga"
@@ -90,7 +90,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/consensus-peaks",
-            "version": "1.1"
+            "version": "1.2"
         },
         {
             "@id": "#galaxy",
@@ -156,7 +156,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.23"
+            "engineVersion": ">=0.75.26"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
@@ -183,7 +183,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/consensus-peaks",
-            "version": "1.1"
+            "version": "1.2"
         },
         {
             "@id": "#test_consensus-peaks-chip-pe_1",
@@ -220,7 +220,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.23"
+            "engineVersion": ">=0.75.26"
         },
         {
             "@id": "consensus-peaks-atac-cutandrun.ga",
@@ -239,7 +239,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/consensus-peaks",
-            "version": "1.1"
+            "version": "1.2"
         },
         {
             "@id": "#test_consensus-peaks-atac-cutandrun_1",
@@ -276,7 +276,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.23"
+            "engineVersion": ">=0.75.26"
         }
     ]
 }
